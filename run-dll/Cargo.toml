@@ -1,0 +1,11 @@
+[package]
+name = "run-dll"
+version = "0.1.0"
+authors = ["takeyuki197 <takeyuki197@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+csv = "1.1.3"
+libloading = "0.6.2"
